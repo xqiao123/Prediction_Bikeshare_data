@@ -8,4 +8,4 @@ In order to improve bicycle-sharing system and reduce environmental pollution, t
 
 The dataset we collected includes 752 observations and 11 variables, including casual, registered, season, hr, day, holiday, weather, temp (temperature), feelslike (‘feels like’ temperature), hum (humidity) and windspeed. From these variables, I suggest that hr, day, holiday may be the main factors influencing different bike rental demands based on the context.
 
-Please click (here)[https://github.com/xqiao123/Prediction_Bikeshare_data/blob/main/bikeshare-Data%20Analysis%20Report.pdf] to view the complet report.
+Please click [here](https://github.com/xqiao123/Prediction_Bikeshare_data/blob/main/bikeshare-Data%20Analysis%20Report.pdf) to view the complet report.
